@@ -24,7 +24,7 @@ Setting up the scraper is straightforward:
 1. Clone or download this repository:
 ```bash
 git clone <repository-url>
-cd script-web
+cd web-scraper
 ```
 
 2. Install the required libraries:
